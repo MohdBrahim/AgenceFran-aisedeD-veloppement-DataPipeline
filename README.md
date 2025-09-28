@@ -56,4 +56,4 @@ Processed data is stored in `hdfs://localhost:9001/user/afd/processed_data`. Vie
 - For non-Ubuntu setups, adjust paths and installations accordingly.
 
 ## License
-MIT License (or whatever you choose).
+MIT License.
